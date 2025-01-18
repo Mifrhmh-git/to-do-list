@@ -1,4 +1,4 @@
-# to-do-list
+# To-Do-List
 <!-- ![To-Do List Logo](path/to/logo.png) Optional: Add a logo or image -->
 
 A simple and intuitive To-Do List application that helps you manage your tasks efficiently. This application allows users to add, edit, delete, and mark tasks as completed.
