@@ -17,8 +17,6 @@ A simple and intuitive To-Do List application that helps you manage your tasks e
 - HTML
 - CSS
 - JavaScript
-- [Any frameworks or libraries used, e.g., React, Vue, etc.]
-- [Backend technology if applicable, e.g., Node.js, Express, etc.]
 
 ## Installation
 
