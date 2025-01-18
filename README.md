@@ -20,7 +20,7 @@ A simple and intuitive To-Do List application that helps you manage your tasks e
 
 ## Installation
 
-To get a local copy up and running, follow these steps:
+To get a local copy up and running, follow these steps :
 
 1. Clone the repository:
    ```bash
